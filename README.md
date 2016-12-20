@@ -1,4 +1,4 @@
-# HR-CCI - Hackerrank Cracking the Coding Interview Solutions
+# HackerRank-CCI - Hackerrank Cracking the Coding Interview Solutions
 
 Hi all! I'm in the process of teaching myself Python.
 
